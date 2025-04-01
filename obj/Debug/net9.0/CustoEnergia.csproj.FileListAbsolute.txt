@@ -1,0 +1,15 @@
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\CustoEnergia\bin\Debug\net9.0\CustoEnergia.exe
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\CustoEnergia\bin\Debug\net9.0\CustoEnergia.deps.json
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\CustoEnergia\bin\Debug\net9.0\CustoEnergia.runtimeconfig.json
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\CustoEnergia\bin\Debug\net9.0\CustoEnergia.dll
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\CustoEnergia\bin\Debug\net9.0\CustoEnergia.pdb
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\CustoEnergia\obj\Debug\net9.0\CustoEnergia.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\CustoEnergia\obj\Debug\net9.0\CustoEnergia.AssemblyInfoInputs.cache
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\CustoEnergia\obj\Debug\net9.0\CustoEnergia.AssemblyInfo.cs
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\CustoEnergia\obj\Debug\net9.0\CustoEnergia.csproj.CoreCompileInputs.cache
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\CustoEnergia\obj\Debug\net9.0\CustoEnergia.sourcelink.json
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\CustoEnergia\obj\Debug\net9.0\CustoEnergia.dll
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\CustoEnergia\obj\Debug\net9.0\refint\CustoEnergia.dll
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\CustoEnergia\obj\Debug\net9.0\CustoEnergia.pdb
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\CustoEnergia\obj\Debug\net9.0\CustoEnergia.genruntimeconfig.cache
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\CustoEnergia\obj\Debug\net9.0\ref\CustoEnergia.dll
